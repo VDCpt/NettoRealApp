@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NettoReal</string>
+    <string name="accessibility_service_description">NettoReal – Lê automaticamente o valor da corrida na Uber/Bolt para cálculo em tempo real.</string>
+</resources>

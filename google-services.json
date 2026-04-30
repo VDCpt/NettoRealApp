@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "859826091060",
+    "firebase_url": "https://kmlucro-d5fd9-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "kmlucro-d5fd9",
+    "storage_bucket": "kmlucro-d5fd9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859826091060:android:8ce8862d32325d431b0661",
+        "android_client_info": {
+          "package_name": "com.netto_real.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhrQQNYkQFkLarSJstNKBdniAh513tODo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

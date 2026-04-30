@@ -1,0 +1,32 @@
+name: netto_real
+description: App de cálculo financeiro para TVDE com segurança militar.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_secure_storage: ^9.0.0
+  local_auth: ^2.1.6
+  pointycastle: ^3.7.3
+  firebase_auth: ^4.16.0
+  cloud_firestore: ^4.13.6
+  flutter_stripe: ^9.3.0
+  flutter_accessibility_service: ^2.0.0
+  intl: ^0.18.1
+  provider: ^6.0.5
+  flutter_localizations:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  generate: true
